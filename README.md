@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=3rd+Year+CSE+%40+IIIT+Kottayam;NLP+%2F+Deep+Learning+%2F+Full-Stack;Open+to+SWE+%2F+ML+Internships" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chennaiahgari-peswika-bavagni-91ab1b363)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:peswikabavagni30@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=PeswikaBavagni-30&color=3B82F6&style=flat-square&label=Views)
-
 </div>
 
 ## About Me
