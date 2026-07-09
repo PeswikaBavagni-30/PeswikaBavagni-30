@@ -36,9 +36,9 @@ Computer Science undergraduate at **IIIT Kottayam**, focused on NLP, deep learni
 ## Featured Projects
 
 - **[AI Voice-Based Train Booking Assistant](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)** — Multilingual voice assistant using Faster-Whisper + Gemini for real-time train search. `React` `Node.js` `Gemini API`
-- **[CivicLens](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)** — Full-stack civic issue reporting platform with auth and live tracking. `React` `Node.js` `MongoDB`
+- **[CivicLens](https://github.com/PeswikaBavagni-30/civiclens-)** — Full-stack civic issue reporting platform with auth and live tracking. `React` `Node.js` `MongoDB`
 - **[Movie Recommender (BERT)](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)** — Content-based recommender using BERT sentence embeddings. `Python` `Sentence-Transformers`
-- **[Chat-Application](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)** — Multithreaded Java chat system over TCP sockets. `Java` `Swing`
+- **[Chat-Application](https://github.com/PeswikaBavagni-30/Chat-Application)** — Multithreaded Java chat system over TCP sockets. `Java` `Swing`
 
 ## Research
 
