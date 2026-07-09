@@ -6,15 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=3rd+Year+CSE+%40+IIIT+Kottayam;NLP+%2F+Deep+Learning+%2F+Full-Stack;Open+to+SWE+%2F+ML+Internships" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chennaiahgari-peswika-bavagni-91ab1b363)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:peswikabavagni30@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=PeswikaBavagni-30&color=3B82F6&style=flat-square&label=Views)
 
 </div>
 
 ## About Me
 
-Computer Science undergraduate at **IIIT Kottayam**, passionate about NLP, deep learning, and full-stack engineering. Research Intern at **NIT Warangal**, working on AI-generated text detection, and an active open-source contributor at **GirlScript Summer of Code (GSSoC)**. Always exploring how research ideas can turn into real, usable systems. Currently looking for **SWE / ML / AI Engineer internships**.
+Computer Science undergraduate at **IIIT Kottayam**, working across NLP, deep learning, and full-stack engineering. Open-source contributor with **GirlScript Summer of Code (GSSoC)**. Currently seeking internship opportunities in Software Engineering, Machine Learning, and AI.
 
 ## Tech Stack
 
@@ -51,7 +48,7 @@ Built a DeBERTa-v3 detector using Multi-Sample Dropout and Supervised Contrastiv
 
 <div align="center">
 
-I'm always happy to connect — reach out for internships, collaborations, or just to talk NLP and ML.
+Open to internships, collaborations, and new opportunities — feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chennaiahgari-peswika-bavagni-91ab1b363)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PeswikaBavagni-30)
