@@ -48,7 +48,7 @@ Built a DeBERTa-v3 detector using Multi-Sample Dropout and Supervised Contrastiv
 
 <div align="center">
 
-Open to internships, collaborations, and new opportunities — feel free to reach out.
+Looking forward to connecting and exploring new opportunities together.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chennaiahgari-peswika-bavagni-91ab1b363)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PeswikaBavagni-30)
