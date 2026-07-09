@@ -41,8 +41,10 @@ Computer Science undergraduate at IIIT Kottayam passionate about building intell
 
 ## Research
 
-**Cross-Generator AI-Generated Text Detection** — Research Intern, NIT Warangal (2026)
-Built a DeBERTa-v3 detector using Multi-Sample Dropout and Supervised Contrastive Learning, achieving **99.29% accuracy** on unseen AI generators. Manuscript in preparation (Elsevier format).
+Cross-Generator AI-Generated Text Detection
+Research Intern, NIT Warangal (2026)
+
+Developed a DeBERTa-v3-based framework to improve the generalization of AI-generated text detection across unseen language models. The proposed approach achieved 99.29% accuracy under the Leave-One-Generator-Out (LOGO) evaluation setting. The work has been documented as a journal manuscript.
 
 ## Connect
 
