@@ -50,7 +50,7 @@ Developed a DeBERTa-v3-based framework to improve the generalization of AI-gener
 
 <div align="center">
 
-Looking forward to connecting and exploring new opportunities together.
+Looking forward to connect and explore new opportunities together.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chennaiahgari-peswika-bavagni-91ab1b363)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PeswikaBavagni-30)
