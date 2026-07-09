@@ -11,7 +11,7 @@
 
 ## About Me
 
-Computer Science undergraduate at **IIIT Kottayam**, working across NLP, deep learning, and full-stack engineering. Open-source contributor with **GirlScript Summer of Code (GSSoC)**. Currently seeking internship opportunities in Software Engineering, Machine Learning, and AI.
+Computer Science undergraduate at IIIT Kottayam passionate about building intelligent software using Machine Learning, NLP, and Full-Stack technologies. Experienced in developing end-to-end applications, AI-powered systems, and contributing to open-source through GirlScript Summer of Code (GSSoC). Interested in Software Engineering, AI, and Machine Learning roles.
 
 ## Tech Stack
 
